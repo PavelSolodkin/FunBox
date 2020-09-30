@@ -1,0 +1,10 @@
+.cards__image_type_none{
+    border: 4px solid #B3B3B3;
+    filter: contrast(25%) grayscale(50%) brightness(150%) blur(0.4px);
+}
+
+.cards__image_type_none:hover{
+    -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}

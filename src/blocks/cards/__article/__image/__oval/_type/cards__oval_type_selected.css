@@ -1,0 +1,12 @@
+.cards__oval_type_selected{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    bottom: 16px;
+    right: 16px;
+    background-color: #D91667;
+}

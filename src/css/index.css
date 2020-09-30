@@ -1,0 +1,32 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__article/__image/_type/cards__image_type_none.css);
+@import url(../blocks/cards/__article/__image/__path/_type/cards__path_type_none.css);
+@import url(../blocks/cards/__article/__image/__oval/_type/cards__oval_type_none.css);
+@import url(../blocks/cards/__article/__ask/_type/cards__ask_type_none.css);
+@import url(../blocks/cards/__article/__image/_type/cards__image_type_selected.css);
+@import url(../blocks/cards/__article/__image/__oval/_type/cards__oval_type_selected.css);
+@import url(../blocks/cards/__article/__image/__path/_type/cards__path_type_selected.css);
+@import url(../blocks/cards/__article/__ask/_answer/cards__answer.css);
+@import url(../blocks/cards/__article/__ask/_answer/_type/cards__answer_type_next.css);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

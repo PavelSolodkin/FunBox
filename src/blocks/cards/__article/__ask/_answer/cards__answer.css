@@ -1,0 +1,10 @@
+.cards__answer{
+    height: 15px;
+    margin-top: 14px ;
+    font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    color: #FFF;
+    display: none;
+}

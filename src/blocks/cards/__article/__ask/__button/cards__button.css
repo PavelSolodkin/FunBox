@@ -1,0 +1,7 @@
+.cards__button{
+    color: #1698D9;
+    border-bottom: 1px dashed #1698D9;
+    list-style: none;
+    text-decoration: none;
+    cursor: pointer;
+}

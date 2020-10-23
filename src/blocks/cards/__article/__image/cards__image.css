@@ -1,0 +1,33 @@
+@import url(./__head/cards__head.css);
+@import url(./__number/cards__number.css);
+@import url(./__oval/cards__oval.css);
+@import url(./__path/cards__path.css);
+@import url(./__quant/cards__quant.css);
+@import url(./__subtitle/cards__subtitle.css);
+@import url(./__title/cards__title.css);
+@import url(./__text/cards__text.css);
+
+.cards__image{
+    width: 320px;
+    height: 480px;
+    position: relative;
+    cursor: pointer;
+    background-image: url(../../../../images/cat.png);
+    background-size: 368px;
+    background-repeat: no-repeat;
+    background-position-y: 200.45%;
+    background-position-x: -25px;
+    background-color: #FFF;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 4px solid #1698D9;
+    background-color: #f2f2f2;
+    clip-path: polygon(16% 0, 100% 0, 100% 100%, 0 100%, 0 11%);
+    box-sizing: border-box;
+}
+
+.cards__image:hover{
+    -webkit-transform: scale(1.01);
+  -ms-transform: scale(1.01);
+  transform: scale(1.01);
+}

@@ -1,0 +1,11 @@
+@import url(./__image/cards__image.css);
+@import url(./__ask/cards__ask.css);
+
+.cards__article{
+    position: relative;
+    width: 320px;
+    height: 510px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

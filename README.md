@@ -1,5 +1,5 @@
 # FunBox
-Test work
+Test work for FunBox
 
 ## Технологии
 HTML, CSS (flex, grid), BEM, JavaScript, Webpack, npm

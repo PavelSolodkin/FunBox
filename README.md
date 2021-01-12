@@ -9,3 +9,5 @@ HTML, CSS (flex, grid), BEM, JavaScript, Webpack, npm
 При нажатии на карточку всё возвращается в исходное положение.
 При повторном нажатии на карточку происходит "покупка".
 И так далее..
+
+https://pavelsolodkin.github.io/FunBox/

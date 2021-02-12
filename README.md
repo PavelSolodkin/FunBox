@@ -10,4 +10,4 @@ HTML, CSS (flex, grid), BEM, JavaScript, Webpack, npm
 При повторном нажатии на карточку происходит "покупка".
 И так далее..
 
-https://pavelsolodkin.github.io/FunBox/
+### Link https://pavelsolodkin.github.io/FunBox/
